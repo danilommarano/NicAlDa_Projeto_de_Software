@@ -25,3 +25,14 @@ O projeto Livre visa construir uma plataforma digital que possa conectar bibliot
 3. Visualização 
 
 
+## 2. Definir as fronteiras do negócio a ser modelado. Definir quem e o quê pode ter interação com o negócio
+
+1. Clientes
+  Pessoas físicas ou jurídicas que desejam comprar livro. 
+
+2. Vendedores
+  Livrarias (pequenas ou grandes), editoras e sebos.
+  
+3. Fornecedores 
+  Empresas de logística que fazem entregas. Os dados do nosso sistema irão alimentar os sistemas das empresas de logística parceiras.
+
