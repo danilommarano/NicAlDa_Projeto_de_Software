@@ -1,11 +1,11 @@
-# iLivro
+# i-Livro
 
 Nome do grupo: NicAlDa
 Nome do projeto: Livre
-Integrantes:
-  Alexandre Petresco - 41904133
-  Danilo Matrangolo Marano - 41915704
-  Nicole Martins dos Santos - 41990277
+
+Alexandre Petresco - 41904133 <br>
+Danilo Matrangolo Marano - 41915704 <br>
+Nicole Martins dos Santos - 41990277 <br>
 
 
 ## 1. Analise o cenário de negócio do tema de projeto escolhido pelo seu grupo
@@ -16,13 +16,20 @@ O projeto Livre visa construir uma plataforma digital que possa conectar bibliot
   
 2. Produzir mecanismos de barateamento dos livros para que possamos atender públicos de baixa renda que geralmente não são inclusos neste mercado. Alguns dos mecanismos seria: 
 
-    - Promoções baseadas na popularidade.
+  - Promoções baseadas na popularidade.
 
-    - Sorteios para os usuários da plataforma
+  - Sorteios para os usuários da plataforma
 
-    - Doações para entidades parceiras
+  - Doações para entidades parceiras
 
-3. Visualização 
+3. Acompanhamento do status do produto:
+
+  - Pendente
+  - Aprovado
+  - Faturado
+  - Enviado
+  - Finalizado
+  - Cancelado
 
 
 ## 2. Definir as fronteiras do negócio a ser modelado. Definir quem e o quê pode ter interação com o negócio
@@ -47,4 +54,9 @@ O projeto Livre visa construir uma plataforma digital que possa conectar bibliot
   
 3. Fornecedores 
   Receber os pedidos, mostrar status do pedido, buscar os livros no local marcado pelos vendedores, enviar os pedidos até o cliente, confirmar que o pedido foi enviado.
+
+## 4. Identifique as informações de entrada e saída de cada atividade de negócio. Faça um modelo que represente o Fluxo das Atividades de Negócio entre os envolvidos
+
+https://app.diagrams.net/#G1-Gf4rDuguY9zdV9SyUJDgfqoKZNVNptE
+
 
