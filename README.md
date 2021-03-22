@@ -1,4 +1,4 @@
-<p style="text-align: center;"># i-Livro</p>
+<h1 style="text-align: center;"> i-Livro</h1>
 
 Go to [Wiki](https://github.com/danilommarano/iLivro/wiki)
 
